@@ -16,8 +16,8 @@ NumPy is a powerful library for numerical computing in Python. It provides suppo
 ## Installation
 To run the examples provided in this repository, you need to have Python and NumPy installed. You can install NumPy using pip:
 
-```bash
 pip install numpy
+
 
 ## Usage
 Each example is contained in its own Python file within the `examples` directory. You can run these examples directly to see the output and understand how each function works.
