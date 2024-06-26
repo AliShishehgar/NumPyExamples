@@ -10,7 +10,6 @@ This project focuses on analyzing a dataset of house prices using NumPy. The goa
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
